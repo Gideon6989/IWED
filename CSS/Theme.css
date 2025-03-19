@@ -1,3 +1,4 @@
+
 .main_heading{
     color:#d40101;
     font size: 50px;
@@ -5,8 +6,8 @@
 }
 
 h1{
-    color: #d40101;
-    background-color: #d40101;
+    color: #ffffff;
+    background-color: #ffffff;
     font size: 50px;
     font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
@@ -19,3 +20,4 @@ a {
  font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
  ::-webkit-textfield-decoration-container
 }
+
