@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&display=swap');
+
+
 body{
     padding: 0;
     margin: 0;
@@ -5,8 +9,8 @@ body{
 h1, h2{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
-    font-weight: bold;
+    font-size: 3.5rem;
+    font-weight: 700;
     text-align: center;
     text-decoration: wavy;
     text-transform: uppercase;
